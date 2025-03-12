@@ -1,2 +1,1 @@
-# Contar_Vocales_Acentuadas_Fichero_Texto_C
- Contar el número de vocales acentuadas de un fichero de texto con C++
+Enunciado del ejercicio resuelto de programación en C++: realizar un programa que pida al usuario la unidad, carpeta (ruta) y nombre de un fichero de texto plano y muestre el número de vocales acentuadas (con tilde) del texto que contenga. Más información en: https://proyectoa.com/contar-el-numero-de-vocales-acentuadas-de-un-fichero-de-texto-con-c/
